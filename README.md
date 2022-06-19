@@ -2,7 +2,7 @@
   <img src="https://top.gg/api/widget/968511978052128780.svg">
 </a>
 
-![**Invite** ](https://discord.gg/XGNkag6J3a)**Proto-Bot**
+[**Invite** ](https://bit.ly/proto-bot)**Proto-Bot**
 
 # Support
 <a href="https://discord.gg/XGNkag6J3a"><img src="https://i.imgur.com/jWjZ7Ui.png" width="500"></a>
