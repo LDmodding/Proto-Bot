@@ -5,7 +5,7 @@
 **Invite** <a href="https://bit.ly/proto-bot">**Proto-Bot**</a>
 
 # Support
-<a href="https://discord.gg/XGNkag6J3a"><img src="https://i.imgur.com/jWjZ7Ui.png" width="500"></a>
+<a href="https://discord.gg/XGNkag6J3a"><img src="https://i.imgur.com/jWjZ7Ui.png" width="300"></a>
 
 **For Support or Questions, <a href="https://discord.gg/XGNkag6J3a">Join our Discord Server**</a>
 
