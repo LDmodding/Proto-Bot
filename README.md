@@ -2,12 +2,12 @@
   <img src="https://top.gg/api/widget/968511978052128780.svg">
 </a>
 
-[**Invite** ](https://bit.ly/proto-bot)**Proto-Bot**
+**Invite** <a href="https://bit.ly/proto-bot" target="_blank">**Proto-Bot**</a>
 
 # Support
 <a href="https://discord.gg/XGNkag6J3a"><img src="https://i.imgur.com/jWjZ7Ui.png" width="500"></a>
 
-**For Support or Questions, [Join our Discord Server](https://discord.gg/XGNkag6J3a)**
+**For Support or Questions, <a href="https://discord.gg/XGNkag6J3a" target="_blank">Join our Discord Server**</a>
 
 # Community
 **Join NOW**
